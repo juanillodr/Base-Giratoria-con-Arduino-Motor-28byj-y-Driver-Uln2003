@@ -1,6 +1,7 @@
 /*
   Creado por: Juan Dominguez Rodriguez
-  Movimiento normal motor  28BYJ-48
+  Giro sencillo de motor 28BYJ-48 a su par y velocidad máximos
+  Dejo tres metodos de excitación de las bobinas, a probar.
   https://drtolox.com
 */
  
